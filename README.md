@@ -76,7 +76,7 @@ Created an interactive dashboard containing:
 * Presented recommendations and final business insights
 
 # 7. Dataset and Dashboard
-## 1. <a href="https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/Sales_Data_7.csv">Data Set</a>
-## 2. Dashboard
+## 1. <a href="https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/Sales_Data_7.csv">Data Set</a><br>
+## 2. Dashboard : [power Bi file (.pbix) of the project.](https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/sales%20project.pbix)<br>
 
 
