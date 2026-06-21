@@ -74,3 +74,8 @@ Created an interactive dashboard containing:
 * Prepared project report summarizing findings
 * Created project presentation using Gamma
 * Presented recommendations and final business insights
+
+# 7. Dataset and Dashboard
+## 1. Dataset
+## 2. Dashboard
+
