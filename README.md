@@ -17,7 +17,7 @@ Regional data<br>
 Time-based sales trends<br>
 
 # 3. Tools & Technologies
-## Tool	Purpose
+### Tool	Purpose
 Python      	: Data loading, cleaning, and EDA<br>
 Pandas       :	Data manipulation<br>
 MySQL Server : 	Data storage and SQL analysis<br>
@@ -26,13 +26,13 @@ Power BI     :	Dashboard creation<br>
 
 # 4.Project Workflow
 
-## 1. Data Loading (Python)
+### 1. Data Loading (Python)
 
 * Imported dataset using Pandas
 * Explored structure and summary statistics
 * Verified data types and dataset dimensions
 
-## 2. Data Cleaning
+### 2. Data Cleaning
 
 * Checked missing values
 * Standardized column names
@@ -40,14 +40,14 @@ Power BI     :	Dashboard creation<br>
 * Prepared data for analysis
 * Created calculated fields for better analysis
 
-## 3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 
 * Analyzed sales patterns
 * Evaluated revenue and profitability
 * Explored product and regional performance
 * Identified trends and business opportunities
 
-## 4. SQL Analysis (MySQL Server)
+### 4. SQL Analysis (MySQL Server)
 
 Performed SQL queries to:
 
@@ -58,7 +58,7 @@ Performed SQL queries to:
 * Evaluate regional performance
 * Generate business insights using aggregations and filtering
 
-## 5. Dashboard Development (Power BI)
+### 5. Dashboard Development (Power BI)
 
 Created an interactive dashboard containing:
 
@@ -75,25 +75,53 @@ Created an interactive dashboard containing:
 * Created project presentation using Gamma
 * Presented recommendations and final business insights
 
-# 7. Dataset and Dashboard
-## 1. <a href="https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/Sales_Data_7.csv">Data Set</a><br>
-## 2. Dashboard : [power Bi file (.pbix) of the project.](https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/sales%20project.pbix)<br>
-## 3. Dashboard Image
+# 5. Dataset and Dashboard
+### 1. <a href="https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/Sales_Data_7.csv">Data Set</a><br>
+### 2. Dashboard : [power Bi file (.pbix) of the project.](https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/sales%20project.pbix)<br>
+### 3. Dashboard Image
 ![Dashboard Screenshot](https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/Sales-Analysis_Image.jpg)
 
-# 8.Results
-## Key Insights<br>
+# 6.Results
+### Key Insights<br>
 Electronics generated the highest profit.<br>
 No loss-making products were identified.<br>
 Sales varied across regions and categories.<br>
 High sales did not always produce high profit.<br>
 Seasonal sales peaks were observed.<br>
 
-# 9.Business Outcome
-## The analysis helped identify opportunities to:<br>
+# 7.Business Outcome
+### The analysis helped identify opportunities to:<br>
 Improve profitability.<br>
 Optimize pricing strategy.<br>
 Strengthen regional sales performance.<br>
 Support data-driven business decisions.<br>
+
+# 8.How to Run
+### Clone Repository:
+git clone <https://github.com/rajendharbanoth8-byte/Sales-Analysis.git><br>
+Install Dependencies:<br>
+pip install pandas numpy matplotlib seaborn <br>
+### Open Files<br>
+Run Python notebooks/scripts<br>
+Execute SQL queries in MySQL Server<br>
+Open .pbix file in Power BI<br>
+View Report and Presentation files<br>
+
+# 10Repository Structure
+Project/
+│
+├── Dataset/
+├── Python/
+├── SQL/
+├── PowerBI/
+├── Report/
+├── Presentation/
+├── Images/
+└── README.md
+
+# 10.Author
+
+### Rajendhar Banoth
+Aspiring Data Analyst | Python | SQL | Power BI
 
 
