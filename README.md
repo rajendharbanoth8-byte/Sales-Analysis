@@ -107,17 +107,18 @@ Execute SQL queries in MySQL Server<br>
 Open .pbix file in Power BI<br>
 View Report and Presentation files<br>
 
-# 10Repository Structure
-Project/
+# 10Repository Structure<br>
+
+Project/<br>
 │
-├── Dataset/
-├── Python/
-├── SQL/
-├── PowerBI/
-├── Report/
-├── Presentation/
-├── Images/
-└── README.md
+├── Dataset/<br>
+├── Python/<br>
+├── SQL/<br>
+├── PowerBI/<br>
+├── Report/<br>
+├── Presentation/<br>
+├── Images/<br>
+└── README.md<br>
 
 # 10.Author
 
