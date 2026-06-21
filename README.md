@@ -69,7 +69,7 @@ Created an interactive dashboard containing:
 * Profit Insights
 * Interactive filters and visual exploration
 
-## 6. Reporting & Presentation
+### 6. Reporting & Presentation
 
 * Prepared project report summarizing findings
 * Created project presentation using Gamma
