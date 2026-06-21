@@ -81,4 +81,19 @@ Created an interactive dashboard containing:
 ## 3. Dashboard Image
 ![Dashboard Screenshot](https://github.com/rajendharbanoth8-byte/Sales-Analysis/blob/main/Sales-Analysis_Image.jpg)
 
+# 8.Results
+## Key Insights<br>
+Electronics generated the highest profit.<br>
+No loss-making products were identified.<br>
+Sales varied across regions and categories.<br>
+High sales did not always produce high profit.<br>
+Seasonal sales peaks were observed.<br>
+
+# 9.Business Outcome
+## The analysis helped identify opportunities to:<br>
+Improve profitability.<br>
+Optimize pricing strategy.<br>
+Strengthen regional sales performance.<br>
+Support data-driven business decisions.<br>
+
 
