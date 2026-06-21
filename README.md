@@ -83,18 +83,18 @@ Created an interactive dashboard containing:
 
 # 6.Results
 ### Key Insights<br>
-Electronics generated the highest profit.<br>
-No loss-making products were identified.<br>
-Sales varied across regions and categories.<br>
-High sales did not always produce high profit.<br>
-Seasonal sales peaks were observed.<br>
+1.Electronics generated the highest profit.<br>
+2.No loss-making products were identified.<br>
+3.Sales varied across regions and categories.<br>
+4.High sales did not always produce high profit.<br>
+5.Seasonal sales peaks were observed.<br>
 
 # 7.Business Outcome
 ### The analysis helped identify opportunities to:<br>
-Improve profitability.<br>
-Optimize pricing strategy.<br>
-Strengthen regional sales performance.<br>
-Support data-driven business decisions.<br>
+1.Improve profitability.<br>
+2.Optimize pricing strategy.<br>
+3.Strengthen regional sales performance.<br>
+4.Support data-driven business decisions.<br>
 
 # 8.How to Run
 ### Clone Repository:
