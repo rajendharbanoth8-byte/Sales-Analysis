@@ -4,16 +4,16 @@ This project analyzes structured sales data using SQL for querying, Python (Pand
 
 # Dataset
 Dataset Information:
-Total Records: 200
-Total Columns: 14
-Missing Values: 0
+Total Records: 200<br>
+Total Columns: 14 <br>
+Missing Values: 0 <br>
 
 Data Includes:
-Sales transactions
-Product details
-Revenue and cost metrics
-Customer information
-Regional data
-Time-based sales trends
+Sales transactions<br>
+Product details<br>
+Revenue and cost metrics<br>
+Customer information<br>
+Regional data<br>
+Time-based sales trends<br>
 
 
